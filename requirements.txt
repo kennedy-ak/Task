@@ -1,7 +1,7 @@
 psycopg2  # PostgreSQL
 pymysql  # MySQL
 sqlalchemy  # ORM for various databases
-sqlite3  # SQLite (comes with Python)
+
 gunicon  # Gunicorn for production
 flask  # Flask web framework
 flask_sqlalchemy  # Flask extension for SQLAlchemy
