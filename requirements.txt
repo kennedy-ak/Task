@@ -6,3 +6,16 @@ gunicon  # Gunicorn for production
 flask  # Flask web framework
 flask_sqlalchemy  # Flask extension for SQLAlchemy
 flask_migrate  # Flask extension for Alembic
+Flask
+numpy
+pandas
+matplotlib
+seaborn
+sqlalchemy
+psycopg2
+nltk
+spacy
+transformers
+scikit-learn
+groq
+python-dotenv
