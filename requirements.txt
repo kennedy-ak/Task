@@ -2,17 +2,15 @@ psycopg2  # PostgreSQL
 pymysql  # MySQL
 sqlalchemy  # ORM for various databases
 
-gunicon  # Gunicorn for production
+gunicorn  
 flask  # Flask web framework
 flask_sqlalchemy  # Flask extension for SQLAlchemy
 flask_migrate  # Flask extension for Alembic
-Flask
+
 numpy
 pandas
 matplotlib
 seaborn
-sqlalchemy
-psycopg2
 nltk
 spacy
 transformers
