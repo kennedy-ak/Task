@@ -1,0 +1,4 @@
+psycopg2  # PostgreSQL
+pymysql  # MySQL
+sqlalchemy  # ORM for various databases
+sqlite3  # SQLite (comes with Python)
